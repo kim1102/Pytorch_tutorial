@@ -1,4 +1,4 @@
 # Pytorch_tutorial
-classification tutorial using pytorch</br>
-Used data cna be download in kaggle</br>
+Classification tutorial using pytorch</br>
+You can download training and test dataset in kaggle</br>
 url: https://www.kaggle.com/tongpython/cat-and-dog
