@@ -10,3 +10,9 @@ data</br>
 - train
   - cat
   - dog
+- val
+  - cat
+  - dog
+- test
+  - cat
+  - dog
