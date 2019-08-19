@@ -7,4 +7,6 @@ You should make 'data' directory in project dir to make this project work.</br>
 Directory should be constructed as following format:</br>
 data</br>
 
->train
+*train
+  *cat
+  *dog
