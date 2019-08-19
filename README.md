@@ -16,3 +16,6 @@ data</br>
 - test
   - cat
   - dog
+
+<hr/>
+Just run 'main.py' if you want to watch how it works!
