@@ -6,16 +6,4 @@ URL: <https://www.kaggle.com/tongpython/cat-and-dog></br>
 You should make 'data' directory in project dir to make this project work.</br>
 Directory should be constructed as following format:</br>
 data</br>
-*train
- *cat
- *dog
- 
-  *train
-    >cat</br>
-    >dog</br>
-  >val</br>
-    >cat</br>
-    >dog</br>
-  >test</br>
-    >cat</br>
-    >dog</br>
+>train
